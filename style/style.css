@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+}
+
+.haut {
+    background-color: #F4F1DE;
+    height: 100vh;
+    position: relative;
+}
+
+button{
+    position: absolute;
+    bottom: 5%;
+    left: 50%;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.milieu {
+    background-color: #E07A5F;
+    height: 100vh;
+}
+
+.bas {
+    background-color: #3D405B;
+    height: 100vh;
+}
