@@ -18,9 +18,8 @@ button{
 }
 
 input{
-    transition: 0.4s;
     position: absolute;        
-    top: 5%;
+    bottom;: 5%;
     left: 50%;
     transform: translateX(-50%);
     padding: 20px;
@@ -35,5 +34,9 @@ input{
 .bas {
     background-color: #3D405B;
     height: 100vh;
+    position: relative;
 }
 
+*{
+    transition: 0,4s;
+}
