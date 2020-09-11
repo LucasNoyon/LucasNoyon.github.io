@@ -19,6 +19,12 @@ button{
 
 input{
     transition: 0.4s;
+    position: absolute;        
+    bottom: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 20px;
+    border-radius: 15px;
 }
 
 .milieu {
