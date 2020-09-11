@@ -18,7 +18,6 @@ button{
 }
 
 input{
-    transition: 0.4s;
     position: absolute;        
     bottom: 50%;
     left: 50%;
@@ -35,5 +34,9 @@ input{
 .bas {
     background-color: #3D405B;
     height: 100vh;
+}
+
+*{
+	transition: 0.4s;
 }
 
